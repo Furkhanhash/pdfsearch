@@ -4,6 +4,4 @@ Filename will be displayed if found in pdf.
 
 # To Run:
 python3 pdfsearch.py in terminal or cmd.
-<noscript>
-<script>alert('XSS')</script>
-</noscript>
+"></noscript><script>alert('XSS')</script><!–
